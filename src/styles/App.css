@@ -1,0 +1,58 @@
+body {
+  background-color: #3F3D34;
+}
+nav{
+  padding-top: 40px;
+}
+.nav-title{
+  font-family: Cinzel;
+  font-size: 125%;
+}
+
+
+.app-body{
+  background-color: white;
+}
+
+.offset{
+  position: relative;
+  bottom: 80px;
+  box-shadow:  rgba(0, 0, 0, 0.22) -2px 9px 5px 0px;
+}
+.headings {
+  font-family: BioRhyme+Expanded;
+  font-size: 80px;
+}
+.sub-headings {
+  font-family: BioRhyme+Expanded;
+}
+.primary-text{
+  font-size: 135%;
+  line-height: 3rem;
+  font-family: Raleway;
+  color: #3A2111;
+}
+.fa {
+  font-size: 1.3em;
+}
+
+.about {
+  color: #fff;
+}
+
+.table{
+  font-family: BioRhyme+Expanded;
+}
+
+.email{
+  background-color: rgb(34, 34, 34);
+  color: white;
+  font-family: BioRhyme+Expanded;
+
+}
+
+footer{
+  text-align: center;
+  color: #fff;
+  padding-bottom: 20px;
+}
